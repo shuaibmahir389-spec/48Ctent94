@@ -1,0 +1,12 @@
+{
+  "name": "48 Ctent — চলেন একসাথে চা খাই আর মুভি দেখি",
+  "short_name": "48 Ctent",
+  "description": "A mobile-first 48 Ctent landing page.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#080710",
+  "theme_color": "#080710",
+  "icons": [{ "src": "assets/48-logo.jpg", "sizes": "1280x1280", "type": "image/jpeg", "purpose": "any" }]
+}
